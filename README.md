@@ -10,7 +10,7 @@
 
 <b>❔ Is (Repository) safe?</b>  
 ⚫ I have tested everything beforehand, though I am not perfect.   
-⚫ Generally, it is safe.
+⚫ Generally, it is safe. If caution, use VM or Sandboxie.
 
 <!--
 **yuankong666/yuankong666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
