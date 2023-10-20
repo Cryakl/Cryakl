@@ -1,14 +1,14 @@
 # 元空666
 
-<b>❔ What do you do?</b>  
+<b>❓ What do you do?</b>  
 ⚫ I am a collector and archival of programs/software.  
 ⚫ My interests are Malware and Programming.
 
-<b>❔ Where can I reach you?</b>  
+<b>❓ Where can I reach you?</b>  
 ⚫ Please open any issue if you need help or to discuss.  
 ⚫ English is not my first language, so my writing isn't perfect.
 
-<b>❔ Is (Repository) safe?</b>  
+<b>❓ Is (Repository) safe?</b>  
 ⚫ I have tested everything beforehand, though I am not perfect.   
 ⚫ Generally, it is safe. If caution, use VM or Sandboxie.
 
