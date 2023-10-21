@@ -12,7 +12,10 @@
 🔴 I have tested everything beforehand, though I am not perfect.   
 🔴 Generally, it is safe. If caution, use VM or Sandboxie.
 
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=yuankong666&style=flat-square&color=red" alt=""/>
+</p>
+<p align="center">
 
 <!--
 **yuankong666/yuankong666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
