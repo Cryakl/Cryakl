@@ -1,4 +1,4 @@
-# ⭐ Yuankong⁶⁶⁶
+# ⭐ リモコン⁶⁶⁶
 
 https://github.com/yuankong666/yuankong666/assets/128066597/09debae2-f3c0-4544-ba49-d3d915da173d
 
