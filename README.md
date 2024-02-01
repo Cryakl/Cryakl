@@ -1,9 +1,9 @@
 # ⭐ Yuankong⁶⁶⁶
 
-https://github.com/yuankong666/yuankong666/assets/128066597/f685dff2-9e43-45ba-a5cd-dea3d8acbf45
+https://github.com/yuankong666/yuankong666/assets/128066597/eb0321ae-6e83-44c0-b4b3-b076e49211e1
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=yuankong666&style=flat-square&color=000000" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=yuankong666&style=for-the-badge&color=000000" alt=""/>
 </p>
 <p align="center">
 
