@@ -1,7 +1,17 @@
-# ⭐ リモコン⁶⁶⁶
+# リモコン⁶⁶⁶
 
-https://github.com/yuankong666/yuankong666/assets/128066597/09debae2-f3c0-4544-ba49-d3d915da173d
-
+<b>What do you do?</b>  
+I am a collector and archiver of programs/software.  
+My interests are malware and programming.  
+  
+<b>Where can I reach you?</b>  
+Open an issue on my repository if you need anything.  
+You can also send inquieres to yuankong666@dnmx.org   
+  
+<b>Is (Repository) safe?</b>  
+I have tested everything beforehand, though I am not perfect.  
+Generally, it is safe. If suspicous, use VM or Sandboxie.  
+  
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=yuankong666&style=for-the-badge&color=000000" alt=""/>
 </p>
