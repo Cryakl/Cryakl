@@ -6,7 +6,7 @@ My interests are malware and programming.
   
 <b>Where can I reach you?</b>  
 Open an issue on my repository if you need anything.  
-You can also send inquieres to yuankong666@dnmx.org   
+You can also send inquiries to yuankong666@dnmx.org   
   
 <b>Is (Repository) safe?</b>  
 I have tested everything beforehand, though I am not perfect.  
