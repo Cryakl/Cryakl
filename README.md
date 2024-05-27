@@ -10,7 +10,7 @@ You can also send inquiries to cryakl@airmail.cc
   
 <b>Is (Repository) safe?</b>  
 I have tested everything beforehand, though I am not perfect.  
-Generally, it is safe. If suspicous, use VM or Sandboxie.  
+Generally, it is safe. If suspicious, use VM or Sandboxie.  
   
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=yuankong666&style=for-the-badge&color=000000" alt=""/>
