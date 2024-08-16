@@ -6,7 +6,8 @@ My interests are malware and programming.
   
 <b>Where can I reach you?</b>  
 Open an issue on my repository if you need anything.  
-You can also send inquiries to cryakl@airmail.cc   
+You can also send inquiries to <a href="https://t.me/Cryakl">@Cryakl</a> on Telegram.  
+Beware of impersonators, I do not sell anything.  
   
 <b>Is (Repository) safe?</b>  
 I have tested everything beforehand, though I am not perfect.  
