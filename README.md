@@ -17,13 +17,13 @@ Beware of impersonators, I do not sell anything.<br>
 <b>Is (Repository) safe?</b><br>
 I have tested everything beforehand, though I am not perfect.<br>
 Generally, it is safe. If suspicious, use a VM or Sandboxie.<br>
-Online sandboxes I recommend for this are <a href="https://app.any.run">ANY.RUN</a> & <a href="https://tria.ge">Triage</a>.<br>
+Online sandboxes I recommend for this are <a href="https://app.any.run">ANY.RUN</a>, <a href="https://tria.ge">Triage</a> & <a href="https://analyze.intezer.com">Intezer</a>.<br>
 </p>
 
   
 <p align="center">
 <br>
-<img src="https://komarev.com/ghpvc/?username=Yuankong666&style=for-the-badge&color=000000" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Yuankong666&style=for-the-badge&color=0047AB" alt=""/>
 </p>
 <p align="center">
 
