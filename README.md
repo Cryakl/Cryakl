@@ -32,3 +32,11 @@ Online sandboxes I recommend for this are <a href="https://app.any.run">ANY.RUN<
 <img src="https://github.com/user-attachments/assets/b0cc0bf3-8edd-4f9a-8f4b-00397036fceb" alt=""/>
 </p>
 <p align="center">
+
+<p align="center">
+<br>
+<sup>Disclaimer:</sup><br>
+<sup><sub>I disclaim all liability for any issues arising from the use of my malware collection/archival repositories.</sub></sup><br>
+<sup><sub>By downloading any sample, you acknowledge doing so at your own risk and agree to use them lawfully and solely for research purposes.</sub></sup>
+</p>
+<p align="center">
