@@ -19,7 +19,6 @@ I have tested everything beforehand, though I am not perfect.<br>
 Generally, it is safe. If suspicious, use a VM or Sandboxie.<br>
 Online sandboxes I recommend for this are <a href="https://app.any.run">ANY.RUN</a>, <a href="https://tria.ge">Triage</a> & <a href="https://analyze.intezer.com">Intezer</a>.<br>
 </p>
-
   
 <p align="center">
 <br>
@@ -30,7 +29,7 @@ Online sandboxes I recommend for this are <a href="https://app.any.run">ANY.RUN<
 <p align="center">
 <br>
 <b>Disclaimer:</b><br>
-I disclaim all liability for any issues arising from the use of my malware collection/archival repositories.<br>
-With any sample, you acknowledge doing so at your own risk and agree to use them lawfully and solely for research purposes.</sup>
+I disclaim all liability for any issues arising from the use of my samples.<br>
+You acknowledge doing so at your own risk and agree to use them for research purposes.</sup>
 </p>
 <p align="center">
