@@ -10,6 +10,7 @@ Recently I am getting into reverse engineering.<br>
 <b>Where can I reach you?</b><br>
 Open an issue on my repository if you need anything.<br>
 Beware of impersonators, I do not sell anything.<br>
+You can only verify it's me by making me write something here.<br>
 </p>
 
 <p align="center">
@@ -22,7 +23,7 @@ Online sandboxes I recommend for this are <a href="https://app.any.run">ANY.RUN<
   
 <p align="center">
 <br>
-<img src="https://komarev.com/ghpvc/?username=Yuankong666&style=for-the-badge&color=0047AB" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Yuankong666&style=for-the-badge&color=000000" alt=""/>
 </p>
 <p align="center">
 
