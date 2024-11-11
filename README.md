@@ -23,7 +23,7 @@ Online sandboxes I recommend for this are <a href="https://app.any.run">ANY.RUN<
   
 <p align="center">
 <br>
-<img src="https://komarev.com/ghpvc/?username=Yuankong666&style=for-the-badge&color=000000" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Yuankong666&style=for-the-badge&color=C850C8" alt=""/>
 </p>
 <p align="center">
 
@@ -35,7 +35,7 @@ You acknowledge doing so at your own risk and agree to use them for research pur
 </p>
 <p align="center">
 <b>Music:</b><br>
-<i>All Time Low - Stella</i><br>
-https://www.youtube.com/watch?v=5gur6sKEGtg
+<i>Nightcore - Poison</i><br>
+https://www.youtube.com/watch?v=REDfd2Ea-e8
 </p>
 <p align="center">
