@@ -23,7 +23,7 @@ Online sandboxes I recommend for this are <a href="https://app.any.run">ANY.RUN<
   
 <p align="center">
 <br>
-<img src="https://komarev.com/ghpvc/?username=Yuankong666&style=for-the-badge&color=88C0C8" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Yuankong666&style=for-the-badge&color=000008" alt=""/>
 </p>
 <p align="center">
 
