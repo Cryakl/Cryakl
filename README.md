@@ -30,7 +30,7 @@ Online sandboxes I recommend for testing are <a href="https://app.any.run">ANY.R
 <p align="center">
 <br>
 <b>Disclaimer:</b><br>
-I disclaim all liability for any issues arising from the use of malware samples.<br>
+I disclaim all liability for any issues arising from the use of the malware samples in my repos.<br>
 You acknowledge doing so at your own risk and agree to use them for research purposes only.</sup>
 </p>
 <p align="center">
