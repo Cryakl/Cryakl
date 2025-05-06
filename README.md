@@ -8,8 +8,7 @@ Recently I am getting into reverse engineering.<br>
 <p align="center">
 <br>
 <b>Where can I reach you?</b><br>
-You can quickly reach me on Telegram: https://t.me/Cryakl<br>
-You can also open an issue on my repo(s) if you need anything.<br>
+You can open an issue on my repo(s) if you need anything.<br>
 Beware of impersonators, I do not sell/upload anything.<br>
 </p>
 
