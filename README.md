@@ -32,7 +32,7 @@ So basically, yeah you can, just do it with good faith.<br>
 <p align="center">
 <br>
 <b>Is (Insert thing here) safe?</b><br>
-I have tested everything in a VM beforehand, though I am not perfect.<br>
+You should never just assume a malware builder or sample is safe.<br>
 Obviously, you should <b>NEVER</b> run anything on a machine you care about.<br>
 Online sandboxes I recommend for testing are <a href="https://app.any.run">ANY.RUN</a>, <a href="https://tria.ge">Triage</a> & <a href="https://analyze.intezer.com">Intezer</a>.<br>
 </p>
