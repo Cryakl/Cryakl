@@ -9,7 +9,6 @@ I'm also into reverse engineering, though I suck at it.<br>
 <br>
 <b>Where can I reach you?</b><br>
 You can open an issue on my repo(s) if you need anything.<br>
-You can also contact me on Telegram at <a href="https://t.me/Cryakl">@Cryakl</a> if needed.<br>
 There are no other points of contact or social media I own.<br>
 </p>
 
